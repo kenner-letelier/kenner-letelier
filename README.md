@@ -26,8 +26,8 @@
 #### ☁️ [Azure Security Labs (AZ-500)](https://upbeat-fender-c91.notion.site/Labs-AZ-500-Setup-2ffd652d88ed805d9fe7d5a19562e49f?source=copy_link)
 > **Stack:** Microsoft Azure, Entra ID, Network Security Groups, Defender for Cloud.
 
-* Cuaderno técnico de laboratorios y *Writeups* documentando escenarios prácticos de seguridad defensiva.
-* Implementación de arquitecturas seguras, protección de identidades, redes y datos en la nube.
+* Cuaderno técnico de *Writeups* y laboratorios prácticos desarrollados como preparación para la certificación **Microsoft AZ-500 (Azure Security Engineer)**.
+* Implementación de arquitecturas seguras, protección de identidades, redes y datos en entornos cloud.
 ![alt text](<Media/portada az 500.png>)
 ---
 
@@ -54,4 +54,5 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
