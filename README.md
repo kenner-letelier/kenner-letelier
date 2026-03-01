@@ -28,7 +28,7 @@
 
 * Cuaderno técnico de laboratorios y *Writeups* documentando escenarios prácticos de seguridad defensiva.
 * Implementación de arquitecturas seguras, protección de identidades, redes y datos en la nube.
-
+![alt text](<Media/portada az 500.png>)
 ---
 
 ### 🎮 Proyectos Destacados: Desarrollo de Software (C# / Unity)
