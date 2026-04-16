@@ -57,7 +57,7 @@ To maintain a streamlined repository, my extensive architectural deployments, DF
 
 ![Dfir & cybersec](Media/Cybersec.png)
 
-**⚔️ [Offensive Security: eJPT Cheat Sheet][Insert Notion Link Here]**
+**⚔️ [Offensive Security: eJPT Cheat Sheet](https://upbeat-fender-c91.notion.site/eJPT-Cheat-Sheet-33cd652d88ed80999756d9368d34732c)**
 * **Methodology:** Structured attack lifecycles based on eJPT and PTES standards.
 * **Tactics:** Exploitation of legacy protocols (SMB, FTP), web application vulnerability assessments, network pivoting, and local privilege escalation vectors across Windows and Linux environments.
 
