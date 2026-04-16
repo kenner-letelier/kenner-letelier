@@ -69,20 +69,20 @@ To maintain a streamlined repository, my extensive architectural deployments, DF
 
 My background in Video Game Development provides a deep understanding of Object-Oriented Programming (OOP), system architecture, and logic optimization—skills that directly enhance my scripting and reverse-engineering capabilities.
 
-| Proyecto | Enfoque Técnico | Tecnologías |
+| Project | Technical Focus | Technologies |
 | :--- | :--- | :--- |
-| **[Advanced TPS Controller](https://github.com/kenner-letelier/GuyHard_Unity_Proyecto_ll_3D)** | Sistemas de inventario circular, mecánicas de cobertura táctica y físicas avanzadas (*Raycasting*). | `Unity 3D` `C#` `Animation Rigging` |
-![alt text](Media/gif4.gif)
-| **[AI Sandbox](https://github.com/kenner-letelier/ThirdPersonController_En_Entornos3D)** | Máquinas de estados (FSM) y *NavMeshAgent* para comportamientos complejos de persecución y reacción. | `Unity 3D` `C#` `AI Navigation` |
-![alt text](Media/gif2.gif)
-| **[Space Shooter 2.5D](https://github.com/kenner-letelier/Amenaza_Unity_Mobile_2.5D)** | Optimización extrema para móviles mediante *Object Pooling Pattern* y gestión de oleadas. | `Unity` `C#` `Mobile Optimization` |
-| **[Metroidvania 2D](https://github.com/kenner-letelier/Metroidvania_Unity_Proyectos-III-main)** | Lógica core de plataformas 2D, raycasting personalizado y diseño de niveles. | `Unity 2D` `C#` `FSM` |
-![alt text](Media/gif3.gif)
-| **[Post-Apocalyptic Env.](https://github.com/kenner-letelier/Escenario3D_Postguerra)** | *Technical Art*, *Level Design*, Iluminación global (*Baked GI*) y *Post-Processing Stack*. | `Unity 3D` `Lighting` `Rendering` |
-![alt text](Media/Escenario_gif2.gif)
+| **[Advanced TPS Controller](https://github.com/kenner-letelier/GuyHard_Unity_Proyecto_ll_3D)** | Circular inventory systems, tactical cover mechanics, and custom physical raycasting. | `Unity 3D` `C#` `Animation Rigging` |
+![TPS Controller](Media/gif4.gif)
+| **[AI Sandbox](https://github.com/kenner-letelier/ThirdPersonController_En_Entornos3D)** | Finite State Machines (FSM) and *NavMeshAgent* for autonomous pathfinding and behavior. | `Unity 3D` `C#` `AI Navigation` |
+![AI Sandbox](Media/gif2.gif)
+| **[Space Shooter 2.5D](https://github.com/kenner-letelier/Amenaza_Unity_Mobile_2.5D)** | Engine optimization for mobile devices utilizing the *Object Pooling Pattern*. | `Unity` `C#` `Mobile Optimization` |
+| **[Metroidvania 2D](https://github.com/kenner-letelier/Metroidvania_Unity_Proyectos-III-main)** | Core 2D platformer physics, state management, and level design. | `Unity 2D` `C#` `FSM` |
+![Metroidvania](Media/gif3.gif)
+| **[Post-Apocalyptic Env.](https://github.com/kenner-letelier/Escenario3D_Postguerra)** | Rendering pipelines, *Baked GI* global illumination, and *Post-Processing Stacks*. | `Unity 3D` `Lighting` `Rendering` |
+![Post Apocalyptic](Media/Escenario_gif2.gif)
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Core Tech Stack & Tools
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
