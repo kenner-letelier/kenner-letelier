@@ -84,9 +84,32 @@ My background in Video Game Development provides a deep understanding of Object-
 
 ### 🛠️ Core Tech Stack & Tools
 
+### 🛠️ Core Tech Stack & Tools
+
+**OS & Offensive Security**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-111122?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/THC_Hydra-111122?style=for-the-badge)
+
+**Cloud Security, Identity & SecOps**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Defender for Cloud](https://img.shields.io/badge/Defender_for_Cloud-%2300A4EF.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Defender XDR](https://img.shields.io/badge/Defender_XDR-%2300A4EF.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**DFIR, SIEM & Threat Analysis**
+![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![KQL & EQL](https://img.shields.io/badge/KQL_&_EQL-0078D4?style=for-the-badge)
+![ANY.RUN](https://img.shields.io/badge/ANY.RUN-0051B5?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FF6600?style=for-the-badge)
+
+**Software Engineering**
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
