@@ -38,30 +38,20 @@ Full-stack development of a *Phishing as a Service* (PhaaS) platform engineered 
 ![Phishing SaaS Home](Media/Home.png)
 
 ---
+### 🧠 Security Engineering & Operations (Portfolio)
 
-### 🧠 Security Engineering & Operations (Knowledge Base)
+To provide a comprehensive, visual, and interactive view of my technical research, I maintain a centralized **[Cybersecurity Portfolio in Notion](https://upbeat-fender-c91.notion.site/Kenner-Letelier-Cloud-Security-SecOps-Engineer-f5ad652d88ed821e952d01bf5daf1692?source=copy_link)**. 
 
-To maintain a streamlined repository, my extensive architectural deployments, DFIR investigations, and offensive playbooks are documented in my Notion Knowledge Base.
+Instead of hosting raw PDFs, this knowledge base details the architecture, context, and execution of my deployments and investigations, structured into four core pillars:
 
-**☁️ [Cloud Security & Zero Trust Architecture (AZ-500 Labs)](https://upbeat-fender-c91.notion.site/Azure-Security-AZ-500-Practical-Lab-Series-35ed652d88ed834d8d5581adc70b78f9)**
-* **Enterprise Topologies:** Design and deployment of simulated corporate network environments (BankOfAzure, NeoBank Ibérica) utilizing Hub-and-Spoke architectures.
-* **Microsegmentation:** Implementation of Azure Firewall Premium, Network Security Groups (NSGs), and Application Gateway (WAF) to isolate critical application tiers.
-* **Identity-First Security:** Configuration of RBAC, Conditional Access via Entra ID, and data protection using Azure Key Vault and Private Links.
+* **🛡️ Cloud Security & Zero Trust:** Enterprise topology designs (Hub-and-Spoke), Identity-First security (Entra ID, PIM, Conditional Access), and governance via Azure Policy (AZ-500 Labs).
+* **🔵 Blue Team (SecOps & DFIR):** Malware triage, ransomware memory forensics, Threat Hunting (KQL/Splunk), and SOC automation with Microsoft Sentinel.
+* **🏗️ Cloud Infrastructure & Data:** Deployment of Cloud Core architectures (AKS, Kubernetes, VMs) and Data Engineering pipelines (Data Lake, Databricks, Event Hubs).
+* **🔴 Red Team (Offensive Security):** Structured attack lifecycles, web application vulnerabilities, and privilege escalation methodologies.
 
-![AZ 500 Lab](Media/AZ-500.png)
+👉 **[Explore my full technical portfolio here](https://upbeat-fender-c91.notion.site/Kenner-Letelier-Cloud-Security-SecOps-Engineer-f5ad652d88ed821e952d01bf5daf1692?source=copy_link)**
 
-**🔍 [Threat Hunting & DFIR](https://upbeat-fender-c91.notion.site/DFIR-Cybersecurity-Investigations-344d652d88ed80519a36dc2cfb9e0b34)**
-* **Malware & APT Analysis:** Reverse-engineering attack vectors of Conti Ransomware and tracking persistence mechanisms of simulated Advanced Persistent Threats (Boogeyman 2 & 3).
-* **Detection Engineering:** Live network traffic analysis deploying Snort IDS/IPS to identify exploitation attempts and malicious signatures.
-* **Forensics:** Investigation of fileless PowerShell executions (PS_Eclipse) and post-incident database exfiltration analysis (Sequel Dump).
-
-![Dfir & cybersec](Media/Cybersec.png)
-
-**⚔️ [Offensive Security: eJPT Cheat Sheet](https://upbeat-fender-c91.notion.site/eJPT-Cheat-Sheet-33cd652d88ed80999756d9368d34732c)**
-* **Methodology:** Structured attack lifecycles based on eJPT and PTES standards.
-* **Tactics:** Exploitation of legacy protocols (SMB, FTP), web application vulnerability assessments, network pivoting, and local privilege escalation vectors across Windows and Linux environments.
-
-![ejpt Cheat Sheet](Media/ejpt.png)
+![alt text](Media/Cybersec.png)
 
 ---
 
