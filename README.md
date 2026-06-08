@@ -51,8 +51,7 @@ Instead of hosting raw PDFs, this knowledge base details the architecture, conte
 
 👉 **[Explore my full technical portfolio here](https://upbeat-fender-c91.notion.site/Kenner-Letelier-Cloud-Security-SecOps-Engineer-f5ad652d88ed821e952d01bf5daf1692?source=copy_link)**
 
-![alt text](Media/Cybersec.png)
-
+![alt text](Media/Portfolio.png)
 ---
 
 ### 🎮 Software Engineering Foundation (C# / Unity)
